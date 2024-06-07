@@ -106,3 +106,17 @@ How to use GPT with your Symfony app
 
 Hands-on with LiveComponents, AssetMapper, Turbo & Stimulus
 [Slides](https://speakerdeck.com/weaverryan/hands-on-with-livecomponents-assetmapper-stimulus-and-turbo)
+
+## SymfonyWorld Online 2021 Winter Edition
+
+Symfony BC Promise demystified
+[Slides](https://slides.com/chalasr/symfonybc-promise-demystifed)
+
+Using the SecurityBundle in Symfony 6
+[Slides](https://wouterj.nl/2021/12/security-winterworld21)
+
+Symfony Forms: Advanced Use Cases
+[Slides](https://speakerdeck.com/alexandresalome/symfony-forms-advanced-use-cases)
+
+Symfony and Docker: a refreshing new experience
+[Slides](https://dunglas.dev/2021/12/symfonys-new-native-docker-support-symfony-world/)
