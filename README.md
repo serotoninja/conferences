@@ -1,7 +1,7 @@
 # Symfony Conferences
 Related stuff to Symfony Conferences
 
-You have to be logged into [Symfony Connect](https://connect.symfony.com/login) to access the videos.
+You have to be logged into [Symfony Connect](https://connect.symfony.com/login){:target="_blank"} to access the videos.
 
 ## SymfonyOnline June 2024
 
