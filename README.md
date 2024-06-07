@@ -120,3 +120,27 @@ Symfony Forms: Advanced Use Cases
 
 Symfony and Docker: a refreshing new experience
 [Slides](https://dunglas.dev/2021/12/symfonys-new-native-docker-support-symfony-world/)
+
+## SymfonyWorld Online 2020
+
+Keynote: Bridging Communities via Symfony UX
+[Slides](https://speakerdeck.com/fabpot/symfony-ux)
+[Video](https://live.symfony.com/account/replay/video/515)
+
+Fabien's keynote in practice: new JavaScript tools for Symfony
+[Video](https://live.symfony.com/account/replay/video/530)
+
+What's new in API Platform?
+[Slides](https://dunglas.dev/2020/12/api-platform-2-6-php-8-support-next-js-and-nuxt-js-app-generator-caddy-server-activitypub-and-much-more/)
+
+Better Console Applications
+[Slides](https://speakerdeck.com/el_stoffel/better-console-applications-symfonyworld-2020)
+
+Internationalize your Symfony application, the right way
+[Slides](https://speakerdeck.com/welcomattic/internationalize-your-symfony-application-the-right-way)
+
+Composer 2
+[Slides](https://naderman.de/slippy/slides/2020-12-04-SymfonyWorld-Online-2020-Composer-2.pdf)
+
+The modern and fast HttpClient
+[Slides](https://speakerdeck.com/brunohsouza/the-modern-and-fast-httpclient)
