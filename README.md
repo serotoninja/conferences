@@ -158,6 +158,94 @@ Bekomm die Supply Chain deiner Projekte in den Griff
 
 
 
+## SymfonyOnline June 2023
+
+Keynote: The Scheduler Component
+[Slides](https://speakerdeck.com/fabpot/our-of-band-activities-the-scheduler-component)
+[Video](https://live.symfony.com/account/replay/video/821)
+
+Is SOLID dead? Let's discuss reusable software design
+[Slides](https://www.slideshare.net/ukaszChruciel1/symfonylive-online-2023-is-solid-dead-pdf)
+
+Optimize your software with API first
+[Slides](https://speakerdeck.com/maxbeckers/api-first-symfony-online)
+
+Let your end users be creative with the ExpressionLanguage component
+[Slides](https://slides.com/floriandavidmerle/symfony-online-june-2023-expression-language)
+
+Firefighting a Symfony & Elasticsearch app with Blackfire
+[Slides](https://speakerdeck.com/thepanz/symfonycon-june-2023-firefighting-a-symfony-and-elasticsearch-app-with-blackfire)
+
+Taming the Forking Beast: Refactoring Monolithic Projects
+[Slides](https://docs.google.com/presentation/d/15OD8JlYLgRwQVdY_VPhrfZ2z9cVn3n9I3AgXFUDT_Qk/edit?usp=sharing)
+
+Teaching Doctrine to be Lazy
+[Slides](https://speakerdeck.com/kbond/teaching-doctrine-to-be-lazy)
+
+AssetMapper: Manage Your JS Deps Without Node
+[Slides](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/)
+
+Here comes Symfony 6.3!
+[Slides](https://speakerdeck.com/alexandresalome/tests-in-a-symfony-application)
+
+Tests in a Symfony application
+[Slides](https://speakerdeck.com/alli83/en-sflive2023-juggle-asynchronously-with-symfony-http-client/edit)
+
+Asynchronous juggling with Symfony HttpClient
+[Slides](https://speakerdeck.com/alli83/en-sflive2023-juggle-asynchronously-with-symfony-http-client/edit)
+
+Decouple Your Apps with Symfony Messenger
+[Slides](https://slidr.io/derrabus/decouple-your-apps-with-symfony-messenger-symfonyonline-2023)
+
+DDD (Debugger Driven Development)
+[Slides](https://es.slideshare.net/carlosgranados/ddd-debugger-driven-development)
+
+Working with Pull Requests
+[Slides](https://malte-wunsch.de/talks/2023-06-16-symfony-online/Working-With-Pull-Requests.pdf)
+
+Modern UIs with UX, a little JS & Zero Node
+[Slides](https://speakerdeck.com/weaverryan/modern-uis-with-ux-a-little-js-and-zero-node)
+
+
+
+## SymfonyWorld Online 2022 Winter Edition
+
+Keynote: Introducing the RemoteEvent and Webhook
+[Slides](https://speakerdeck.com/fabpot/symfonycon-2022-keynote-webhooks)
+[Video](https://live.symfony.com/account/replay/video/769)
+
+GNAP: The future of OAuth
+[Slides](https://speakerdeck.com/chalasr/gnap-the-future-of-oauth)
+
+Transactional vs. Analytical Processing
+[Slides](https://speakerdeck.com/el_stoffel/transactional-vs-analytical-processing)
+
+Unleashing the power of lazy objects in PHP
+[Slides](https://speakerdeck.com/nicolasgrekas/unleashing-the-power-of-lazy-objects-in-php)
+
+A self-training journey to the Symfony Certification - and beyond
+[Slides](https://speakerdeck.com/cajou/a-self-training-journey-to-the-symfony-certification)
+
+FrankenPHP: a modern application server for Symfony apps
+[Slides](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/)
+
+Fighting impostor syndrome: a practical handbook
+[Slides](https://docs.google.com/presentation/d/1CE7CiauD6_--inmPiL1Rwue7sm67umDI_wshvcv_n_0/edit?usp=sharing)
+
+Climate change and IT, scaling sustainably
+[Slides](https://speakerdeck.com/fredplais/climate-change-and-the-cloud-platform-dot-sh-view-point)
+[Video](https://live.symfony.com/account/replay/video/790)
+
+Modernizing with Symfony
+[Slides](https://slidr.io/derrabus/modernizing-with-symfony-symfonycon-2022)
+
+Dynamic Validation with Symfony
+[Slides](https://speakerdeck.com/marionleherisson/how-to-dynamically-validate-data-with-symfony)
+
+Painless authentication with Access Tokens
+[Slides](https://speakerdeck.com/welcomattic/painless-authentication-with-access-tokens)
+
+
 ## SymfonyWorld Online 2021 Winter Edition
 
 Symfony BC Promise demystified
