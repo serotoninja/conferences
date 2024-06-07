@@ -39,7 +39,7 @@ Kaizen-Inspired DevOps
 [Slides](https://speakerdeck.com/bbujisic/kaizen-inspired-devops)
 
 PHPUnit 10 for Symfony Developers
-https://thephp.cc/presentations/phpunit-10-for-symfony-developers?ref=symfony
+[Slides](https://thephp.cc/presentations/phpunit-10-for-symfony-developers?ref=symfony)
 
 Regex: demystifying the hieroglyphics
 [Slides](https://github.com/Mupsi/regex-presentation)
