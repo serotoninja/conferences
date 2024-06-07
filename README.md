@@ -3,6 +3,8 @@ Related stuff to Symfony Conferences
 
 You have to be logged into [Symfony Connect](https://connect.symfony.com/login) to access the videos.
 
+
+
 ## SymfonyOnline June 2024
 
 The big upgrade. All the way up to Symfony 7 and PHP 8.3
@@ -19,6 +21,8 @@ Using container's features to manage complexity
 
 Serialization and performance
 [Slides](https://slides.com/mathiasarlaud/symfony-live-un-serializer-sous-steroides-21e5b7)
+
+
 
 ## SymfonyOnline January 2024
 
@@ -107,6 +111,53 @@ How to use GPT with your Symfony app
 Hands-on with LiveComponents, AssetMapper, Turbo & Stimulus
 [Slides](https://speakerdeck.com/weaverryan/hands-on-with-livecomponents-assetmapper-stimulus-and-turbo)
 
+
+
+## SymfonyLive Berlin 2023 (german)
+
+Symfony 7: A tribute to Attributes
+[Slides](https://speakerdeck.com/nicolasgrekas/symfony-7-a-tribute-to-attributes)
+
+Wie viel Datenbankabstraktion brauche ich?
+[Slides](https://slidr.io/derrabus/wie-viel-datenbankabstraktion-brauche-ich)
+
+Effizientes Caching für moderne Webseiten
+[Slides](https://speakerdeck.com/chirimoya/caching-the-uncacheable)
+
+Multi-Tenancy - Yay or Nay?
+[Slides](https://github.com/SiMoeBoe/multi-tenancy-yon-talk/blob/main/Multi-Tenancy-YayOrNay.pdf)
+
+Von Chaos zu Kontrolle: Exception Handling in Symfony
+[Slides](https://drive.google.com/file/d/1Sa-YK9vktJjSTXP4Uz6ck2WyiSkE65Hd/view?usp=sharing)
+
+Hochperformante Anwendungen mit Event Sourcing & Doctrine
+[Slides](https://thephp.cc/praesentationen/phpunit-10-fuer-symfony-entwicklerinnen?ref=symfony)
+
+Transparente Benzinpreise mit Aggregation Pipelines in MongoDB
+[Slides](https://speakerdeck.com/xabbuh/anatomie-des-request-handlings)
+
+PHPUnit 10 für Symfony Entwickler:innen
+[Slides](https://speakerdeck.com/maxbeckers/bessere-software-dank-api-first)
+
+Anatomie des Request Handlings
+[Slides](https://speakerdeck.com/el_stoffel/how-to-use-gpt-and-symfony-with-your-app-de)
+
+Bessere Software dank API First
+[Slides](https://speakerdeck.com/maxbeckers/bessere-software-dank-api-first)
+
+Die Verwendung von Anemic und Rich Domains in Symfony
+
+Wie Sie GPT mit Ihrer Symfony-App verwenden
+[Slides](https://speakerdeck.com/el_stoffel/how-to-use-gpt-and-symfony-with-your-app-de)
+
+Identity Crisis: OAuth2, OIDC & Symfony
+[Slides](https://speakerdeck.com/dbrumann/identity-crisis-oauth2-oidc-and-symfony)
+
+Bekomm die Supply Chain deiner Projekte in den Griff
+[Slides](https://naderman.de/slippy/slides/2023-10-06-SymfonyLive-Berlin-Bekomm-die-Supply-Chain-deiner-Projekte-in-den-Griff.pdf)
+
+
+
 ## SymfonyWorld Online 2021 Winter Edition
 
 Symfony BC Promise demystified
@@ -120,6 +171,8 @@ Symfony Forms: Advanced Use Cases
 
 Symfony and Docker: a refreshing new experience
 [Slides](https://dunglas.dev/2021/12/symfonys-new-native-docker-support-symfony-world/)
+
+
 
 ## SymfonyWorld Online 2020
 
