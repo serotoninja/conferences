@@ -10,7 +10,7 @@ Related videos, slides and other resources.
 * [Git Subtree Splitter](https://github.com/splitsh/lite)
 
 ### LIVE (Component) Experience
-* [Slides]([](https://speakerdeck.com/smnandre/live-component-experience-symfony-online-june-2024))
+* [Slides](https://speakerdeck.com/smnandre/live-component-experience-symfony-online-june-2024)
 * [Symfony UX Live Component](https://ux.symfony.com/live-component)
 
 ### The big upgrade. All the way up to Symfony 7 and PHP 8.3
