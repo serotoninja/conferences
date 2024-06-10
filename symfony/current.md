@@ -5,6 +5,7 @@ Related videos, slides and other resources.
 ## SymfonyOnline June 2024
 
 Using Git magic for the Symfony mono-repo
+* [Slides](https://speakerdeck.com/fabpot/using-some-git-magic-on-the-symfony-mono-repository)
 * [Git Subtree Splitter](https://github.com/splitsh/lite)
 
 LIVE (Component) Experience
@@ -14,6 +15,7 @@ The big upgrade. All the way up to Symfony 7 and PHP 8.3
 * [Slides](https://speakerdeck.com/barelon/the-big-upgrade-all-the-way-up-to-symfony-7-and-php-8-dot-3)
 
 How to Test an External API with 0 Mocks?
+* [Slides](https://slides.com/imenezzine/symfonyonline)
 * [Guzzle VCR](https://github.com/dshafik/guzzlehttp-vcr)
 * [PHP-VCR](https://github.com/php-vcr/php-vcr)
 * [HTTP VCTR Plugin](https://github.com/php-http/vcr-plugin)
