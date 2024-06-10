@@ -38,7 +38,7 @@ Related videos, slides and other resources.
 
 ### Efficient Webhook Management with API Platform and Symfony's Webhook component
 * [Slides](https://speakerdeck.com/alli83/efficient-webhook-management-with-api-platform-and-symfonys-webhook-component)
-* [API Plateform](https://api-platform.com/)
+* [API Platform](https://api-platform.com/)
 * [Github Webhooks in Symfony](https://dev.to/sensiolabs/how-to-use-the-new-symfony-maker-command-to-work-with-github-webhooks-2c8n)
 
 ### Front-end application development, Symfony-style(s)
