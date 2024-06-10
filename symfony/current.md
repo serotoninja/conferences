@@ -52,7 +52,7 @@ Related videos, slides and other resources.
 * [zenstruck/messenger-test](https://github.com/zenstruck/messenger-test)
 
 ### Revisiting lazy objects in PHP and Symfony
-* [Slides)](https://speakerdeck.com/nicolasgrekas/unleashing-the-power-of-lazy-objects-in-php) (2022)
+* [Slides](https://speakerdeck.com/nicolasgrekas/unleashing-the-power-of-lazy-objects-in-php) (2022)
 
 ### Efficient Webhook Management with API Platform and Symfony's Webhook component
 * [Slides](https://speakerdeck.com/alli83/efficient-webhook-management-with-api-platform-and-symfonys-webhook-component)
