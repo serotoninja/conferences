@@ -38,6 +38,7 @@ Related videos, slides and other resources.
 
 ### It's a (testing) trap!
 * [Slides](https://speakerdeck.com/leichteckig/its-a-testing-trap-common-end-to-end-pitfalls-and-how-to-solve-them)
+* [Video](https://www.youtube.com/watch?v=uvJwWQLaVqU)
 
 ### Static Analysis Crash Course for Framework Developers
 * [Slides](https://speakerdeck.com/ondrejmirtes/static-analysis-crash-course-for-framework-developers)
