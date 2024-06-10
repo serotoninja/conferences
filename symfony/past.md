@@ -43,7 +43,7 @@ Related videos, slides and other resources.
 * [Slides](https://speakerdeck.com/ondrejmirtes/static-analysis-crash-course-for-framework-developers)
 
 ### Github Actions 101: your 1st action
-[Video](https://www.youtube.com/watch?v=gBPoDWBd3Q8)
+* [Video](https://www.youtube.com/watch?v=gBPoDWBd3Q8)
 
 ### Domain-Driven Design: The Basics
 * [Slides](https://speakerdeck.com/skoop/domain-driven-design-the-basics-symfonycon-2023-brussels)
