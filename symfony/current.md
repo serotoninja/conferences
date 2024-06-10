@@ -3,6 +3,7 @@
 Related videos, slides and other resources.
 
 ## SymfonyOnline June 2024
+[Overview](https://live.symfony.com/2024-online-june/)
 
 ### Using Git magic for the Symfony mono-repo
 * [Slides](https://speakerdeck.com/fabpot/using-some-git-magic-on-the-symfony-mono-repository)
@@ -59,5 +60,6 @@ Related videos, slides and other resources.
 
 ### Leveraging Symfony UX in a Real Application
 * [Video](https://www.youtube.com/watch?v=rGowzfmzgdk) (PHPUK 2024)
+* [sensiolabs/StorybookBundle](https://github.com/sensiolabs/StorybookBundle)
 
 [Past](./past.md)
