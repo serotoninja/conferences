@@ -67,6 +67,7 @@ Related videos, slides and other resources.
 
 ### Need for Speed: Removing speed bumps from your Symfony projects
 * [Slides](https://www.slideshare.net/slideshow/need-for-speed-removing-speed-bumps-from-your-symfony-projects/269560310)
+* [Video](https://www.youtube.com/watch?v=IX2c6XQo1IU)
 
 ### Serialization and performance
 * [Slides](https://slides.com/mathiasarlaud/symfony-live-un-serializer-sous-steroides-21e5b7)
