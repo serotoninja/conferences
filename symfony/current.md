@@ -10,6 +10,7 @@ Related videos, slides and other resources.
 * [Git Subtree Splitter](https://github.com/splitsh/lite)
 
 ### LIVE (Component) Experience
+* [Slides]([](https://speakerdeck.com/smnandre/live-component-experience-symfony-online-june-2024))
 * [Symfony UX Live Component](https://ux.symfony.com/live-component)
 
 ### The big upgrade. All the way up to Symfony 7 and PHP 8.3
@@ -60,6 +61,7 @@ Related videos, slides and other resources.
 
 ### Leveraging Symfony UX in a Real Application
 * [Video](https://www.youtube.com/watch?v=rGowzfmzgdk) (PHPUK 2024)
+* [Symfony UX](https://ux.symfony.com/)
 * [sensiolabs/StorybookBundle](https://github.com/sensiolabs/StorybookBundle)
 
 [Past](./past.md)
