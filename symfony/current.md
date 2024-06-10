@@ -15,6 +15,8 @@ Related videos, slides and other resources.
 
 ### The big upgrade. All the way up to Symfony 7 and PHP 8.3
 * [Slides](https://speakerdeck.com/barelon/the-big-upgrade-all-the-way-up-to-symfony-7-and-php-8-dot-3)
+* [fastdebug.io](https://fastdebug.io/)
+* [php-static-analysis/attributes](https://github.com/php-static-analysis/attributes)
 
 ### How to Test an External API with 0 Mocks?
 * [Slides](https://slides.com/imenezzine/symfonyonline)
