@@ -1,5 +1,4 @@
 # Conferences
 Related stuff to Conferences
 
-[Symfony](./symfony.md)
-
+[Symfony](./symfony/current.md)
