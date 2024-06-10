@@ -1,6 +1,6 @@
 # Past Symfony Conferences
 
-
+You have to be logged into Symfony Connect to access the free videos.
 
 ## SymfonyOnline January 2024
 
