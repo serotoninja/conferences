@@ -51,6 +51,7 @@ Related videos, slides and other resources.
 
 ### Do you really know JWT?
 * [Slides](https://slides.com/kpn13/do-you-really-know-jwt)
+* [Video](https://www.youtube.com/watch?v=1dJwKVkrRJo)
 
 ### Remote Work: Past, Present, and Future?
 * [Slides](https://speakerdeck.com/fredplais/is-remote-the-past-or-the-future-of-work)
@@ -126,6 +127,7 @@ Related videos, slides and other resources.
 
 ### Hochperformante Anwendungen mit Event Sourcing & Doctrine
 * [Slides](https://thephp.cc/praesentationen/phpunit-10-fuer-symfony-entwicklerinnen?ref=symfony)
+* [Video](https://www.youtube.com/watch?v=gG_HaMDnxDk) (Neos Con 2022)
 
 ### Transparente Benzinpreise mit Aggregation Pipelines in MongoDB
 * [Slides](https://speakerdeck.com/xabbuh/anatomie-des-request-handlings)
