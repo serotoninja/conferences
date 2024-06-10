@@ -17,15 +17,18 @@ Related videos, slides and other resources.
 
 ### How much database abstraction do I need?
 * [Slides](https://slidr.io/derrabus/how-much-database-abstraction-do-i-need)
+* [Video](https://www.youtube.com/watch?v=qScVFyOGL_Y) (PHPUK 2023)
 
 ### Kaizen-Inspired DevOps
 * [Slides](https://speakerdeck.com/bbujisic/kaizen-inspired-devops)
+* [Video](https://www.youtube.com/watch?v=DY_WNejXZu8)
 
 ### PHPUnit 10 for Symfony Developers
 * [Slides](https://thephp.cc/presentations/phpunit-10-for-symfony-developers?ref=symfony)
 
 ### Regex: demystifying the hieroglyphics
 * [Slides](https://github.com/Mupsi/regex-presentation)
+* [Video](https://www.youtube.com/watch?v=Y8b2DlHIc3U)
 
 ### Get a grip on your project's supply chain
 * [Slides](https://naderman.de/slippy/slides/2023-12-07-SymfonyCon-Brussels-Get-a-Grip-On-Your-Projects-Supply-Chain.pdf)
@@ -38,6 +41,9 @@ Related videos, slides and other resources.
 
 ### Static Analysis Crash Course for Framework Developers
 * [Slides](https://speakerdeck.com/ondrejmirtes/static-analysis-crash-course-for-framework-developers)
+
+### Github Actions 101: your 1st action
+[Video](https://www.youtube.com/watch?v=gBPoDWBd3Q8)
 
 ### Domain-Driven Design: The Basics
 * [Slides](https://speakerdeck.com/skoop/domain-driven-design-the-basics-symfonycon-2023-brussels)
@@ -53,6 +59,7 @@ Related videos, slides and other resources.
 
 ### Refactoring monolith to multi-app
 * [Slides](https://speakerdeck.com/flovntp/the-forking-beast-refactoring-monolithic-projects)
+* [Video](https://www.youtube.com/watch?v=8IT-atDyGX4)
 
 ### Multi-tenant applications using Symfony, for real?
 * [Slides](https://speakerdeck.com/tucksaun/multi-tenant-applications-using-symfony-for-real)
@@ -60,7 +67,7 @@ Related videos, slides and other resources.
 ### Need to search through your data? Heard about Meilisearch?
 * [Slides](https://speakerdeck.com/guikingone/need-to-search-through-your-data-heard-about-meilisearch)
 
-Using symfony/messenger standalone
+### Using symfony/messenger standalone
 * [Slides](https://github.com/susannemoog/presentations/blob/main/symfony.md)
 
 ### I did it! I broke production!
@@ -68,9 +75,11 @@ Using symfony/messenger standalone
 
 ### Taming container environment maintenance: let's go Nix-ing!
 * [Slides](https://speakerdeck.com/lolautruche/lets-go-nix-ing)
+* [Video](https://www.youtube.com/watch?v=LhVjKes2Wsc)
 
 ### Symfony Apps as Standalone Binaries
 * [Slides](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/)
+* [Video](https://www.youtube.com/watch?v=IqOVtDm95cw)
 
 ### Expression Language in Symfony: Beyond the Framework
 * [Slides](https://rjanot.github.io/expression-language-sfcon2023)
@@ -87,6 +96,9 @@ Using symfony/messenger standalone
 
 ### How to use GPT with your Symfony app
 * [Slides](https://speakerdeck.com/el_stoffel/how-to-use-gpt-with-your-symfony-app-en)
+
+### Your weakness is your superpower
+* [Video](https://www.youtube.com/watch?v=Dzogbk1yb_A)
 
 ### Hands-on with LiveComponents, AssetMapper, Turbo & Stimulus
 * [Slides](https://speakerdeck.com/weaverryan/hands-on-with-livecomponents-assetmapper-stimulus-and-turbo)
